@@ -11,7 +11,7 @@ Hi, I'm Thomas Cupples, a Web3 Developer 🚀 and Technical Writer. I've been in
 <br>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px; padding-top: 4rem;" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px; padding-top: 4rem;" /> -->
 
 <h3>
 	<img
