@@ -7,7 +7,7 @@
 
 <br>
 
-Hi, I'm Thomas Cupples, a Web3 Developer 🚀 and Technical Writer. I've been in web3 space for around 10 years shipping cool products, attending IRL Events and participating in Hackathons.
+Hi, I'm Thomas Cupples, a Senior Full Stack Developer 🚀 and Professional Technical Writer. I've been in web2 and web3 space for around 17 years shipping cool products, attending IRL Events and participating in Hackathons.
 <br>
 
 
